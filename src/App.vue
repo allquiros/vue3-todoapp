@@ -1,10 +1,11 @@
 <script setup>
-import HelloWorld from './components/TodoApp.vue';
+import TodoApp from './components/TodoApp.vue';
+import TodoApp from './components/TodoApp.vue';
 </script>
 
 <template>
   <header>
-    <HelloWorld />
+    <TodoApp />
   </header>
 </template>
 
